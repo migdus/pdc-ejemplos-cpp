@@ -24,13 +24,13 @@ int main(){				//Inicia función principal
 	Muestra en pantalla la cadena "Escribe algo" y luego un fin de 
 	línea, para que el cursor salte a la siguiente línea.
 	*/
-	cout << "Escribe algo" << endl;	
+	cout << "Escribe una palabra o un numero" << endl;	
 	
 	//Captura por teclado y captura en la variable "cadena"
 
 	cin >> cadena;					//Esta línea captura una palabra solamente
 				
-	cout << cadena << endl;			//Imprime el valor de la cadena y un fin de línea
+	cout << "El eco dice: " << cadena << endl;			//Imprime el valor de la cadena y un fin de línea
 		
 	cin.get();		/*Evita que se cierre la ventana de la consola. Si no funciona,
 					Pruebe otras alternativas de las ofrecidas en 01_hola_mundo.cpp */

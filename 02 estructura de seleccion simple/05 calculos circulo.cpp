@@ -48,6 +48,8 @@ int main(){
 	cout << "Longitud para un circulo de radio " << r << ":\t" << longitud << endl;
 	cout << "Area para un circulo de radio " << r << ":\t" << area << endl;
 	
+	cout << endl;
+	
 	cin.get();
 	
 	return 0;

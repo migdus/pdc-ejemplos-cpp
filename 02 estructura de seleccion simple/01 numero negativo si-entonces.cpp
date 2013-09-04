@@ -49,6 +49,8 @@ int main(){
 	
 	}									//Cierra la estructura si - entonces
 	
+	cout << endl;
+	
 	cin.get();
 	
 	return 0;

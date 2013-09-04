@@ -28,6 +28,8 @@ int main(){
 	if(numero % 2 != 0)
 		cout << "El numero es impar";
 	
+	cout << endl;
+	
 	cin.get();
 	
 	return 0;

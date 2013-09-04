@@ -38,6 +38,8 @@ int main(){
 		cout << "El numero es positivo";	
 	}									//Cierra un Si No
 	
+	cout << endl;
+	
 	cin.get();
 	
 	return 0;

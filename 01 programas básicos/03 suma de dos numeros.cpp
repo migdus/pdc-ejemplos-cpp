@@ -27,6 +27,7 @@ int main(){
 	c = a + b;				//Realiza la operación y la almacena en una variable
 	
 	//Imprime la operación. 
+	cout << endl;
 	cout << a ;
 	cout << " + ";
 	cout << b ;
@@ -39,6 +40,9 @@ int main(){
 	separando las cadenas y variables con el operador "<<":
 	*/
 	
+	cout << endl << "(esta es otra manera de escribir la instruccion para que muestre";
+	cout << "la informacion. Revisa el codigo fuente para mas detalles)" << endl << endl;
+
 	cout << a << " + " << b << " = " << c << endl;
 	
 	cin.get();
