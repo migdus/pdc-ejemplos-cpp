@@ -1,3 +1,9 @@
+/*
+ * Autor: Miguel Dussán
+ *
+ *Un vendedor ha hecho una serie de ventas y desea conocer la cantidad de ventas de $200 o menores, la cantidad de ventas que sean mayores a $200 e inferiores a $400, y las ventas de $400 o superiores. Diseñe un programa que provea al vendedor de esta información luego de leer los datos de entrada.
+ */
+
 #include <iostream>
 
 using namespace std;
