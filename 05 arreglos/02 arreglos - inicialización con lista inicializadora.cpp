@@ -1,11 +1,11 @@
-nclude <iostream>
+#include <iostream>
 #include <iomanip> //se usa para agregar espacios en la salida
 
 using namespace std;
 
 int main() {
 
-    Declaración e inicialización del arreglo de 10 elementos de tipo int
+    //Declaración e inicialización del arreglo de 10 elementos de tipo int
     int a[10]= {3,56,4,2,30,12,6,4,73,49};
 
     float promedio = 0;
